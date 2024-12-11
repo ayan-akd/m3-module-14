@@ -11,3 +11,9 @@
 ![ER Diagram](./ER_Diagram.png)
 
 *Description*: This diagram represents the entities and their relationships in the system.
+
+![UPDATED ER DIAGRAM](./Final.png)
+
+Description: This is an updated diagram illustrates the relationships among User, Student, Admin, Faculty, Academic Semester, Academic Faculty, Academic Department.
+
+---
