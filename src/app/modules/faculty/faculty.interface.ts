@@ -17,7 +17,6 @@ export type TFaculty = {
   presentAddress: string;
   permanentAddress: string;
   profileImg?: string;
-  admissionSemester: Types.ObjectId;
   isDeleted: boolean;
   academicDepartment: Types.ObjectId;
 };
