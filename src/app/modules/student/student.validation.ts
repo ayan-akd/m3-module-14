@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-const userNameValidationSchema = z.object({
+export const userNameValidationSchema = z.object({
   firstName: z
     .string()
     .min(1)
